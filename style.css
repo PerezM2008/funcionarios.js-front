@@ -31,3 +31,12 @@ img {
     justify-content: center;
    
 }
+.card-funcionario p {
+    margin: 5px 0 0;
+    font-size: 0.9px;
+    color: black;
+}
+.card-funcionario h2{
+    margin: 0;
+    color: black;
+}
